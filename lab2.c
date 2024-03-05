@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//variabile
 int function(int x){
 
     if (x==0) return x;
